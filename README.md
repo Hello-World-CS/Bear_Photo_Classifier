@@ -1,7 +1,7 @@
 # Wildlife Conservation Tracker
 
 ## Table of contents
-* [General info](#general-info)
+* [Overview](#overview)
 * [Screenshots](#screenshots)
 * [Technologies](#technologies)
 * [Setup](#setup)
