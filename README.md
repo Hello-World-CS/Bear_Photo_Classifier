@@ -10,7 +10,7 @@
 This project 
 
 ## Screenshots
-![This is not a bear](https://commons.wikimedia.org/wiki/File:This_is_a_bear.png)
+![This is not a bear](https://upload.wikimedia.org/wikipedia/commons/1/11/The_classifier_thinks_this_is_not_a_bear.png)
 ![This is a bear](https://upload.wikimedia.org/wikipedia/commons/e/e3/This_is_a_bear.png)
 	
 ## Technologies
