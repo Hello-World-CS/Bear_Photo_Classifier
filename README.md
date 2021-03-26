@@ -1,6 +1,7 @@
-# Wildlife Conservation Tracker
+![Hello World Logo](https://upload.wikimedia.org/wikipedia/commons/3/3c/Hello_world_preview_for_web.png)
 ## Level 5, Data Science & Artificial Intelligence 
-
+# Wildlife Conservation Tracker
+ 
 ## Table of Contents
 * [Overview](#overview)
 * [Outcome](#outcome)
