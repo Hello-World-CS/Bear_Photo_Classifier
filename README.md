@@ -13,8 +13,12 @@ This project
 This project 
 	
 ## Technologies
-This project is created with:
-* 
+This project was created with:
+* Python
+* Keras
+* scikit-learn
+* NumPy
+* OpenCV-Python
 	
 ## Setup
 To run this project, install it locally using :
