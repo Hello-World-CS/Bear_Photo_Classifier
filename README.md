@@ -2,10 +2,14 @@
 
 ## Table of contents
 * [General info](#general-info)
+* [Screenshots](#screenshots)
 * [Technologies](#technologies)
 * [Setup](#setup)
 
 ## General info
+This project 
+
+## Screenshots
 This project 
 	
 ## Technologies
