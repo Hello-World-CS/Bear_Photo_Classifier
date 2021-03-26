@@ -7,6 +7,7 @@
 * [About](#about)
 * [Outcome](#projectoutcome)
 * [Key Learnings](#keylearnings)
+* [Extension](#extension)
 * [Screenshots](#screenshots)
 * [Installation](#setup)
 
@@ -21,12 +22,17 @@ This project was built with:
 * OpenCV-Python
 
 ### Outcome <a name="projectoutcome"></a>
-This project could be used to identify, count, and track wildlife. Automating the collection of this highly valuable data could be tremendously helpful to research scientists. 
+This program can be used to identify, count, and track wildlife. By identifying the animals that this AI spots, the program saves wildlife researchers a tremendous amount of time. Automating the collection of this highly valuable data will also allow for a broader collection. As researchers track the impacts of climate change and human intrusion on wildlife populations, this data becomes increasingly valuable. Having access to such data can also allow policymakers to make more informed decisions on conservation efforts. 
 
 ### Key Learnings <a name="keylearnings"></a>
 * How to build and train a convolutional neural network
 * Building and cleaning large datasets 
 * Using data to evaluate neural network performance 
+
+### Extension <a name="extension"></a>
+* Add a feature that shares information in a searchable database
+* Add location tags for multiple camera points 
+* Achieve a model performance that meets or exceeds 98% accuracy 
 
 ### Screenshots
 ![This is not a bear](https://upload.wikimedia.org/wikipedia/commons/1/11/The_classifier_thinks_this_is_not_a_bear.png)
