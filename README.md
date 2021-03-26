@@ -5,8 +5,8 @@
  
 ### Table of Contents
 * [About](#about)
-* [Project_Outcome](#project_outcome)
-* [Key_Learnings](#key_learnings)
+* [Project Outcome](#projectoutcome)
+* [Key Learnings](#keylearnings)
 * [Screenshots](#screenshots)
 * [Technologies](#technologies)
 * [Setup](#setup)
@@ -14,10 +14,10 @@
 ### About
 In this project, a student has built and trained a convolutional neural network (CNN) classifier that identifies whether a specific animal is in a photo. The student built and cleaned a dataset of several hundred photos, and built a CNN classifier using Keras. After using test data to evaluate their models’ performance, the student used their classifiers to identify animals in real-world trail camera videos.
 
-### Project_Outcome
+### Project Outcome <a name="projectoutcome"></a>
 This project could be used to identify, count, and track wildlife. Automating the collection of this highly valuable data could be tremendously helpful to research scientists. 
 
-### Key_Learnings
+### Key Learnings <a name="keylearnings"></a>
 * How to build and train a convolutional neural network
 * Building and cleaning large datasets 
 * Using data to evaluate neural network performance 
