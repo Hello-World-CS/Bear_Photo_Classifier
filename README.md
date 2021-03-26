@@ -1,11 +1,12 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Helloworldstyle50.png" alt="logo" width="350"/>
+
 # Level 5, Data Science & Artificial Intelligence 
 ## Wildlife Conservation Tracker
  
 ### Table of Contents
 * [About](#about)
-* [Project Outcome](#outcome)
-* [Key Learnings](#keylearnings)
+* [Project_Outcome](#project_outcome)
+* [Key_Learnings](#key_learnings)
 * [Screenshots](#screenshots)
 * [Technologies](#technologies)
 * [Setup](#setup)
