@@ -22,7 +22,7 @@ This project was built with:
 * OpenCV-Python
 
 ### Outcome <a name="projectoutcome"></a>
-This program can be used to identify, count, and track wildlife. By identifying the animals that this AI spots, the program saves wildlife researchers a tremendous amount of time. Automating the collection of this highly valuable data will also allow for a broader collection. As researchers track the impacts of climate change and human intrusion on wildlife populations, this data becomes increasingly valuable. Having access to such data can also allow policymakers to make more informed decisions on conservation efforts. 
+This program can be used to identify, count, and track wildlife. By identifying the animals that this AI spots, the program saves wildlife researchers a tremendous amount of time. Automating the collection of this highly valuable data will also allow for a broader collection. As researchers track the impacts of climate change and human intrusion on wildlife populations, this data becomes increasingly valuable. Having access to such data can also allow policy makers to make more informed decisions on conservation efforts. 
 
 ### Key Learnings <a name="keylearnings"></a>
 * How to build and train a convolutional neural network
