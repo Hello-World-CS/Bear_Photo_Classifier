@@ -1,4 +1,4 @@
-![Hello World Logo](https://upload.wikimedia.org/wikipedia/commons/8/8a/Helloworldstyle50.png)
+![Hello World Logo](https://upload.wikimedia.org/wikipedia/commons/8/8a/Helloworldstyle50.png =20x20)
 # Level 5, Data Science & Artificial Intelligence 
 ## Wildlife Conservation Tracker
  
