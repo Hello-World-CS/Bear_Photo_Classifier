@@ -11,7 +11,7 @@
 * [Setup](#setup)
 
 ### About
-In this student example project, a student has built and trained a convolutional neural network (CNN) classifier that identifies whether a specific animal is in a photo. The student built and cleaned a dataset of several hundred photos, and built a CNN classifier using Keras. After using test data to evaluate their models’ performance, the student used their classifiers to identify animals in real-world trail camera videos.
+In this project, a student has built and trained a convolutional neural network (CNN) classifier that identifies whether a specific animal is in a photo. The student built and cleaned a dataset of several hundred photos, and built a CNN classifier using Keras. After using test data to evaluate their models’ performance, the student used their classifiers to identify animals in real-world trail camera videos.
 
 ### Outcome
 
