@@ -13,6 +13,8 @@
 ### About
 In this project, a student has built and trained a convolutional neural network (CNN) classifier that identifies whether a specific animal is in a photo. The student built and cleaned a dataset of several hundred photos, and built a CNN classifier using Keras. After using test data to evaluate their models’ performance, the student used their classifiers to identify animals in real-world trail camera videos.
 
+![Link to Jupyter notebook](https://github.com/Hello-World-CS/Wildlife_Conservation_Tracker/blob/main/Wildlife%20Conservation%20Tracker.ipynb)
+
 This project was built with:
 * Python
 * Keras
