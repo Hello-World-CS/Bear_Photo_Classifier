@@ -13,7 +13,7 @@
 ### About
 In this project, a student has built and trained a convolutional neural network (CNN) classifier that identifies whether a specific animal is in a photo. The student built and cleaned a dataset of several hundred photos, and built a CNN classifier using Keras. After using test data to evaluate their models’ performance, the student used their classifiers to identify animals in real-world trail camera videos.
 
-[➲ Link to Jupyter notebook](https://github.com/Hello-World-CS/Wildlife_Conservation_Tracker/blob/main/Wildlife%20Conservation%20Tracker.ipynb)
+[➤ Link to Jupyter notebook](https://github.com/Hello-World-CS/Wildlife_Conservation_Tracker/blob/main/Wildlife%20Conservation%20Tracker.ipynb)
 
 This project was built with:
 * Python
@@ -23,7 +23,7 @@ This project was built with:
 * OpenCV-Python
 
 ### Outcome <a name="projectoutcome"></a>
-This program can be used to identify, count, and track wildlife. By identifying the animals that this AI spots, the program saves wildlife researchers a tremendous amount of time. Automating the collection of this highly valuable data will also allow for a broader collection. As researchers track the impacts of climate change and human intrusion on wildlife populations, this data becomes increasingly valuable. Having access to such data can also allow policy makers to make more informed decisions on conservation efforts. 
+This program can be used to identify whether a specific animal appears in an image, such as a video frame. By identifying the animals that this AI spots, the program saves wildlife researchers a tremendous amount of time. Automating the collection of this highly valuable data will also allow for a broader collection. As researchers track the impacts of climate change and human intrusion on wildlife populations, this data becomes increasingly valuable. Having access to such data can also allow policy makers to make more informed decisions on conservation efforts. 
 
 ### Key Learnings <a name="keylearnings"></a>
 * How to build and train a convolutional neural network
